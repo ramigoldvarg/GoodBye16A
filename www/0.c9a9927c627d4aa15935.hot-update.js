@@ -1,0 +1,11 @@
+webpackHotUpdate(0,{
+
+/***/ 226:
+/***/ (function(module, exports, __webpack_require__) {
+
+"use strict";
+eval("\n\nObject.defineProperty(exports, \"__esModule\", {\n    value: true\n});\n\nvar _redux = __webpack_require__(52);\n\nvar _reducer_current_gif = __webpack_require__(230);\n\nvar _reducer_current_gif2 = _interopRequireDefault(_reducer_current_gif);\n\nvar _reducer_gifs = __webpack_require__(231);\n\nvar _reducer_gifs2 = _interopRequireDefault(_reducer_gifs);\n\nvar _reducer_show_filter = __webpack_require__(232);\n\nvar _reducer_show_filter2 = _interopRequireDefault(_reducer_show_filter);\n\nfunction _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }\n\nvar rootReducer = (0, _redux.combineReducers)({\n    currentGif: _reducer_current_gif2.default,\n    gifs: _reducer_gifs2.default,\n    showFilter: _reducer_show_filter2.default\n\n});\n\nexports.default = rootReducer;//# sourceURL=[module]\n//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIndlYnBhY2s6Ly8vLi9yZWR1Y2Vycy9yZWR1Y2VyX3Jvb3QuanM/ZTQ1NCJdLCJuYW1lcyI6WyJyb290UmVkdWNlciIsImN1cnJlbnRHaWYiLCJnaWZzIiwic2hvd0ZpbHRlciJdLCJtYXBwaW5ncyI6Ijs7Ozs7O0FBQUE7O0FBQ0E7Ozs7QUFDQTs7OztBQUNBOzs7Ozs7QUFFQSxJQUFNQSxjQUFjLDRCQUFnQjtBQUNoQ0MsNkNBRGdDO0FBRWhDQyxnQ0FGZ0M7QUFHaENDOztBQUhnQyxDQUFoQixDQUFwQjs7a0JBT2VILFciLCJmaWxlIjoiMjI2LmpzIiwic291cmNlc0NvbnRlbnQiOlsiaW1wb3J0IHsgY29tYmluZVJlZHVjZXJzIH0gZnJvbSAncmVkdXgnO1xyXG5pbXBvcnQgUmVkdWNlckN1cnJlbnRHaWYgZnJvbSAnLi9yZWR1Y2VyX2N1cnJlbnRfZ2lmJztcclxuaW1wb3J0IFJlZHVjZXJHaWZzIGZyb20gJy4vcmVkdWNlcl9naWZzJztcclxuaW1wb3J0IFJlZHVjZXJTaG93RmlsdGVyIGZyb20gJy4vcmVkdWNlcl9zaG93X2ZpbHRlcic7XHJcblxyXG5jb25zdCByb290UmVkdWNlciA9IGNvbWJpbmVSZWR1Y2Vycyh7XHJcbiAgICBjdXJyZW50R2lmOiBSZWR1Y2VyQ3VycmVudEdpZixcclxuICAgIGdpZnM6IFJlZHVjZXJHaWZzLFxyXG4gICAgc2hvd0ZpbHRlcjogUmVkdWNlclNob3dGaWx0ZXJcclxuXHJcbn0pO1xyXG5cclxuZXhwb3J0IGRlZmF1bHQgcm9vdFJlZHVjZXI7XG5cblxuLy8gV0VCUEFDSyBGT09URVIgLy9cbi8vIC4vcmVkdWNlcnMvcmVkdWNlcl9yb290LmpzIl0sInNvdXJjZVJvb3QiOiIifQ==\n//# sourceURL=webpack-internal:///226\n");
+
+/***/ })
+
+})
